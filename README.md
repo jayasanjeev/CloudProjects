@@ -8,7 +8,7 @@
 
 Building a professional personal website focused on delivering a good user experience and showcasing my skills, professional experience, and accomplishments. The website provides an accessible online presence where potential employers and clients can learn more about my background and access my CV/resume
 
-AWS Services
+<h2>AWS Services</h2>
 1. Amazon S3 - Storage Services
 2. Amazon CloudFront - Content Delivery Network Services
 3. Amazon CloudWatch - Observability Services
