@@ -1,6 +1,6 @@
 # CloudProjects
 <details>
-### <summary>Project 1</summary>
+<summary><h1>Project 1</h1></summary>
 
 <h2>My Personal Website</h2> 
 
