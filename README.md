@@ -11,7 +11,7 @@ Building a professional personal website focused on delivering a good user exper
 <h2>AWS Services</h2>
 
 1. Amazon S3 - Storage Services
-2. Amazon CloudFront - Content Delivery Network Services
+2. Amazon CloudFront - Content Delivery Network (CDN) Services
 3. Amazon CloudWatch - Observability Services
 
 <p>Clients connect through CloudFront, which fetches the website static files from S3. Both of these services emit metrics to CloudWatch.</p>
