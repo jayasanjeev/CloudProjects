@@ -1,6 +1,6 @@
 # CloudProjects
 <details>
-<summary>### Project 1</summary>
+### <summary>Project 1</summary>
 # My Personal Website
 
 # Summary
@@ -13,5 +13,4 @@ Figure 1 - My Website Architecture - Phase 1 Diagram
 
 </details>
 
-  <summary>Click to view technical details</summary>
 
