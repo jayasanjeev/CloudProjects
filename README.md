@@ -1,6 +1,6 @@
 # CloudProjects
-
-### Project 1
+<details>
+<summary>### Project 1</summary>
 # My Personal Website
 
 # Summary
@@ -10,4 +10,8 @@ Building a professional personal website focused on delivering a good user exper
 Figure 1 - My Website Architecture - Phase 1 Diagram
 
 <img width="981" height="574" alt="image" src="https://github.com/user-attachments/assets/464e3ff4-42ac-45c1-aaad-03b190bc68fe" />
+
+</details>
+
+  <summary>Click to view technical details</summary>
 
