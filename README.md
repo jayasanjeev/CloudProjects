@@ -9,4 +9,5 @@ Building a professional personal website focused on delivering a good user exper
 
 Figure 1 - My Website Architecture - Phase 1 Diagram
 
-<img width="967" height="554" alt="image" src="https://github.com/user-attachments/assets/1d90f517-ac9e-437d-8dfe-6f10c7804537" />
+<img width="981" height="574" alt="image" src="https://github.com/user-attachments/assets/464e3ff4-42ac-45c1-aaad-03b190bc68fe" />
+
